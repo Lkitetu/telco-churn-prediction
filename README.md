@@ -72,7 +72,8 @@ sklearn.metrics (accuracy_score, roc_auc_score, confusion_matrix, classification
 
 ## 📓 Analysis Notebook
 
-### **[View Complete Analysis on Google Colab](YOUR_COLAB_LINK_HERE)**
+### **[View Complete Analysis on Google Colab](https://colab.research.google.com/drive/1eYi20RL6z9L910JxJMPoV-XCu3mXJ9fS?usp=sharing<img width="1388" height="1414" alt="image" src="https://github.com/user-attachments/assets/04c890de-1b1b-4860-b474-8c50f0d87bdf" />
+)**
 
 This comprehensive Jupyter notebook includes:
 1. **Exploratory Data Analysis** with 6+ visualizations
